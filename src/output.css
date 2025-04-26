@@ -573,6 +573,15 @@ video {
   margin-bottom: 0.75rem;
 }
 
+.my-\[20px\] {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
 .flex {
   display: flex;
 }
@@ -591,6 +600,22 @@ video {
 
 .w-\[80\%\] {
   width: 80%;
+}
+
+.w-\[33\] {
+  width: 33;
+}
+
+.w-\[33\%\] {
+  width: 33%;
+}
+
+.w-\[30\%\] {
+  width: 30%;
+}
+
+.w-\[100\%\] {
+  width: 100%;
 }
 
 .items-center {
@@ -615,6 +640,24 @@ video {
   background-color: rgb(241 228 255 / var(--tw-bg-opacity, 1));
 }
 
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-gray-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(156 163 175 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#FCFEFF\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(252 254 255 / var(--tw-bg-opacity, 1));
+}
+
+.p-5 {
+  padding: 1.25rem;
+}
+
 .px-5 {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
@@ -623,6 +666,10 @@ video {
 .py-2 {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .text-\[50px\] {
@@ -647,6 +694,16 @@ video {
   line-height: 1.75rem;
 }
 
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
 .font-medium {
   font-weight: 500;
 }
@@ -664,6 +721,10 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\] {
+  color: ;
 }
 
 @media (max-width: 510px) {
