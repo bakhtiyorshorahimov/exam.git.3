@@ -578,6 +578,11 @@ video {
   margin-bottom: 20px;
 }
 
+.my-\[100px\] {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
 .mt-5 {
   margin-top: 1.25rem;
 }
@@ -618,8 +623,16 @@ video {
   width: 100%;
 }
 
+.w-\[\] {
+  width: ;
+}
+
 .items-center {
   align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
 }
 
 .justify-between {
@@ -628,6 +641,10 @@ video {
 
 .gap-5 {
   gap: 1.25rem;
+}
+
+.gap-3 {
+  gap: 0.75rem;
 }
 
 .bg-\[\#685ED6\] {
@@ -702,6 +719,10 @@ video {
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
+}
+
+.text-\[20px\] {
+  font-size: 20px;
 }
 
 .font-medium {
